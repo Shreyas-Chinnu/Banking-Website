@@ -127,3 +127,9 @@ body {
     color: white;
     margin-top: 2rem;
 }
+.contact-form {
+    text-align:center;
+    padding: 20px;
+    background: white;
+    color: black;
+}
